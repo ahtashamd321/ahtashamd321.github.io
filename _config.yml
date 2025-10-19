@@ -30,7 +30,7 @@ plugins:
 
 author:
   name   : "Ahtasham Anjum"
-  avatar : "/assets/images/profile-photo.jpg"  # replace this with your photo file name later
+  avatar : "/assets/images/anjum.jpg"  # replace this with your photo file name later
   bio    : "Certified Data Analyst skilled in Python, SQL, Power BI, and Excel. Passionate about data storytelling and transforming numbers into insights."
   links:
     - label: "Portfolio"
